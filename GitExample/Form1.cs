@@ -16,15 +16,6 @@ namespace GitExample
         {
             InitializeComponent();
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("hi");
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            textBox1.Text = "git change 41";
-        }
+   
     }
 }
