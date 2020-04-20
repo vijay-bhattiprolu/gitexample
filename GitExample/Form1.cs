@@ -19,7 +19,7 @@ namespace GitExample
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hi from branch2");
+            MessageBox.Show("hi");
         }
   
     }
