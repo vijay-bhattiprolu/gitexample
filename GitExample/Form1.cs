@@ -21,6 +21,10 @@ namespace GitExample
         {
             MessageBox.Show("hi");
         }
-  
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            textBox1.Text = "git change 41";
+        }
     }
 }
